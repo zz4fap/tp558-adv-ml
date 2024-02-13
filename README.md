@@ -8,7 +8,7 @@ Felipe Augusto Pereira de Figueiredo (felipe.figueiredo@inatel.br)
 
 ## Objetivos do curso
 
-O objetivo desta disciplina é apresentar aos alunos, através de seminários preparadas por eles, uma visão ampla e detalhada sobre diferentes modelos avançados de redes neurais e suas aplicações em diferentes áreas do conhecimento. Ao final do curso, os alunos devem ser capazes de entender e aplicar na prática os diferentes modelos estudados.
+O objetivo desta disciplina é apresentar aos alunos, através de seminários preparados por eles, uma visão ampla e detalhada sobre diferentes modelos avançados de redes neurais e suas aplicações em diferentes áreas do conhecimento. Ao final do curso, os alunos devem ser capazes de entender e aplicar na prática os diferentes modelos estudados.
 
 ## Material das aulas
 
