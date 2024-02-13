@@ -2,6 +2,10 @@
 
 Repositório contendo o material da disciplina "Tópicos avançados em Machine Learning".
 
+## Professor
+
+Felipe Augusto Pereira de Figueiredo (felipe.figueiredo@inatel.br)
+
 ## Objetivos do curso
 
 O objetivo desta disciplina é apresentar aos alunos, através de seminários preparadas por eles, uma visão ampla e detalhada sobre diferentes modelos avançados de redes neurais e suas aplicações em diferentes áreas do conhecimento. Ao final do curso, os alunos devem ser capazes de entender e aplicar na prática os diferentes modelos estudados.
@@ -14,7 +18,3 @@ O material das aulas pode ser acessado através dos links abaixo.
 
 
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
-
-#### Professor
-
-Felipe Augusto Pereira de Figueiredo (felipe.figueiredo@inatel.br)
