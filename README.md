@@ -13,7 +13,7 @@ O material das aulas pode ser acessado através dos links abaixo.
 1. [Introdução ao curso](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_1_Introdu%C3%A7%C3%A3o_ao_curso.pdf)
 
 
-<img src="/figures/iot_lab.jpg" width="100px"> <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
+<img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
 #### Professor
 
