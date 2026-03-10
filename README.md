@@ -1,4 +1,4 @@
-# PPg-INATEL: TP-558 - Tópicos Avançados em Aprendizado de Máquina 
+# TP-558 - Tópicos Avançados em Aprendizado de Máquina 
 
 > Repositório contendo o material da disciplina "TP-558 - Tópicos avançados em Machine Learning" para pós-graduação em Engenharia em Telecomunicação no [INATEL](https://inatel.br/mestrado-doutorado/). 
 
@@ -6,11 +6,11 @@
 
 |Versão |Orientador(es) 								|Contato													|
 |:--:	|:--											|:--														|
-|1.0	|[Felipe Augusto Pereira de Figueiredo](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=3E6BC4DDFBB32F9BCCD06D6C8406814B.buscatextual_0) 		|[felipe.figueiredo@inatel.br](felipe.figueiredo@inatel.br)	|
+|1.0	|[Felipe Augusto Pereira de Figueiredo](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=3E6BC4DDFBB32F9BCCD06D6C8406814B.buscatextual_0) 		|felipe.figueiredo@inatel.br	|
 
 ## OBJETIVO
 
-> O objetivo desta disciplina é apresentar aos alunos, através de seminários preparados por eles, uma visão ampla e detalhada sobre diferentes modelos avançados de redes neurais e suas aplicações em diferentes áreas do conhecimento. Ao final do curso, os alunos devem ser capazes de entender e aplicar na prática os diferentes modelos estudados.
+> Apresentar aos alunos, através de seminários preparados por eles, uma visão ampla e detalhada sobre diferentes modelos avançados de redes neurais e suas aplicações em diferentes áreas do conhecimento. Ao final do curso, os alunos devem ser capazes de entender e aplicar na prática os diferentes modelos estudados.
 
 ## PLANO DO CURSO
 
@@ -30,13 +30,23 @@ O material das aulas pode ser acessado através dos links abaixo (pasta do googl
 
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
-## Referências
+## REFERÊNCIAS
 
 > <Adicionar 5 referências base>
 
+1. []();
+
+2. []();
+
+3. []();
+
+4. []();
+
+5. []();
+
 - <Link para planilha com informações adicionais>
 
-## Colaboradores
+## COLABORADORES
 
 <a href="https://github.com/zz4fap/tp558-adv-ml/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=zz4fap/tp558-adv-ml" />
