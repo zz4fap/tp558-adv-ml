@@ -1,8 +1,8 @@
-# TP-558 - Tópicos Avançados em Aprendizado de Máquina 
+# PPg-INATEL: TP-558 - Tópicos Avançados em Aprendizado de Máquina 
 
 > Repositório contendo o material da disciplina "TP-558 - Tópicos avançados em Machine Learning" para pós-graduação em Engenharia em Telecomunicação no [INATEL](https://inatel.br/mestrado-doutorado/). 
 
-## PROFESSOR / ORIENTADOR
+## PROFESSOR(ES) / ORIENTADOR(ES)
 
 |Versão |Orientador(es) 								|Contato													|
 |:--:	|:--											|:--														|
@@ -28,7 +28,6 @@ O material das aulas pode ser acessado através dos links abaixo (pasta do googl
 
 4. [Função de perda de GANs](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_3_Fun%C3%A7%C3%A3o_de_Perda_de_GANs.pdf)
 
-<img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
 ## REFERÊNCIAS
 
@@ -45,6 +44,8 @@ O material das aulas pode ser acessado através dos links abaixo (pasta do googl
 5. []();
 
 - <Link para planilha com informações adicionais>
+
+<img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
 ## COLABORADORES
 
