@@ -1,13 +1,17 @@
 # PPg-INATEL: TP-558 - Tópicos Avançados em Aprendizado de Máquina (SLIDES)
 
-> Descrição
+> Lista de materiais de suporte para 
 
 > Lista de material de suporte
 
-> TODO: 
+|		|		|		|
+|:---:	|:---	|:---:	|
+|		|		|		|
+
+> TODO:
 - Template no:
 - [ ] Google sheets e;
-- [ ] LaTex.
+- [ ] LaTex;
 
 
 
