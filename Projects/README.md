@@ -12,12 +12,15 @@
 |[]()						|					|
 |[]()						|					|
 
-## ORIENTAÇÕES 
+## ORIENTAÇÃO
 
-> Para configuração e organização dos projetos.
-
-
-
+TODO:
+- [ ] Definir branch 'ano-semestre-sobrenome';
+- [ ] Definir uma pasta 'ano-semestre-sobrenome' dentro da 'ano-semestre';
+- [ ] Definir 2 pastas dentro de 'ano-semestre-sobrenome': 'Project' e 'Documentation';
+	- Em 'Project' é o diretório destinado à desenvolvimento das atividade;
+	- Em 'Documentation' é o diretório destinado ao relatório da disciplina e apresentação do projeto (templates estão na [pasta principal de Documentação](\Documentation)).
+ 
 
 
 
