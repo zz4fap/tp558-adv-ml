@@ -1,12 +1,20 @@
 # PPg-INATEL: TP-558 - Tópicos Avançados em Aprendizado de Máquina 
 
-> Repositório contendo o material da disciplina "TP-558 - Tópicos avançados em Machine Learning" para pós-graduação em Engenharia em Telecomunicação no [INATEL](https://inatel.br/mestrado-doutorado/). 
-
+<table border="0" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"><img src="/Figures/ml_logo1.png" width="300px"></td>
+    <td style="border: none;">Repositório contendo o material da disciplina "TP-558 - Tópicos avançados em Machine Learning" para pós-graduação em Engenharia em Telecomunicação no [INATEL](https://inatel.br/mestrado-doutorado/).</td>
+	<td style="border: none;"><img src="/Figures/inatel_logo.png" width="300px"></td>
+  </tr>
+</table>
+ 
 ## PROFESSOR(ES) / ORIENTADOR(ES)
 
-|Versão |Orientador(es) 								|Contato													|
-|:--:	|:--											|:--														|
+|Versão |Orientador(es)	|Contato		|
+|:--:	|:--			|:--			|
 |1.0	|[Felipe Augusto Pereira de Figueiredo](https://buscatextual.cnpq.br/buscatextual/visualizacv.do;jsessionid=3E6BC4DDFBB32F9BCCD06D6C8406814B.buscatextual_0) 		|felipe.figueiredo@inatel.br	|
+|1.5	|				|				|
+
 
 ## OBJETIVO
 
@@ -14,24 +22,23 @@
 
 ## PLANO DO CURSO
 
-- <Link para plano do curso - google docs>
+- Link para plano do curso - google drive ou docs 
 
 ## MATERIAL DE SUPORTE
 
 O material das aulas pode ser acessado através dos links abaixo (pasta do google drive e repositório):
 
-1. [Introdução ao curso](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_1_Introdu%C3%A7%C3%A3o_ao_curso.pdf)
-
-	1.2. [Temas dos seminários](https://docs.google.com/spreadsheets/d/19mypFcuvkspJEsLo58qEa70MwIDpH1KOYqf0OcO_vLI/edit?usp=sharing)
-
-3. [Modelos de difusão](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_2_Diffusion_Models.pdf)
-
-4. [Função de perda de GANs](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_3_Fun%C3%A7%C3%A3o_de_Perda_de_GANs.pdf)
+|		|ARQUIVO	|
+|:--- 	|:--- 		|
+|1 		|[Introdução ao curso](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_1_Introdu%C3%A7%C3%A3o_ao_curso.pdf)|
+|2 		|[Temas dos seminários](https://docs.google.com/spreadsheets/d/19mypFcuvkspJEsLo58qEa70MwIDpH1KOYqf0OcO_vLI/edit?usp=sharing)|
+|3 		|[Modelos de difusão](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_2_Diffusion_Models.pdf)|
+|4		|[Função de perda de GANs](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_3_Fun%C3%A7%C3%A3o_de_Perda_de_GANs.pdf)|
 
 
 ## REFERÊNCIAS
 
-> <Adicionar 5 referências base>
+> Adicionar 5 referências base:
 
 1. []();
 
@@ -43,9 +50,6 @@ O material das aulas pode ser acessado através dos links abaixo (pasta do googl
 
 5. []();
 
-- <Link para planilha com informações adicionais>
-
-<img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
 
 ## COLABORADORES
 
