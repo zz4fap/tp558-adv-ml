@@ -18,8 +18,4 @@ O material das aulas pode ser acessado através dos links abaixo.
 
    1.2. [Temas dos seminários](https://docs.google.com/spreadsheets/d/19mypFcuvkspJEsLo58qEa70MwIDpH1KOYqf0OcO_vLI/edit?usp=sharing)
 
-3. [Modelos de difusão](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_2_Diffusion_Models.pdf)
-
-4. [Função de perda de GANs](https://github.com/zz4fap/tp558-adv-ml/blob/main/slides/TP558_3_Fun%C3%A7%C3%A3o_de_Perda_de_GANs.pdf)
-
 <img src="/figures/ml_logo1.png" width="100px"> <img src="/figures/inatel_logo.png" width="200px">
